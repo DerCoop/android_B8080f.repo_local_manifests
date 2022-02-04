@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="DerCoop/android_device_lenovo_b8080f" path="device/lenovo/B8080f" remote="github" revision="cm-11.0" />
+  <project name="DerCoop/android_kernel_lenovo_msm8226" path="kernel/lenovo/msm8226" remote="github" revision="cm-11.0" />
+</manifest>
