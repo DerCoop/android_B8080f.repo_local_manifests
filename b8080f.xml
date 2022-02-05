@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="DerCoop/android_device_lenovo_b8080f" path="device/lenovo/B8080f" remote="github" revision="cm-11.0" />
-  <project name="DerCoop/android_kernel_lenovo_msm8226" path="kernel/lenovo/msm8226" remote="github" revision="cm-11.0" />
+  <project name="DerCoop/android_device_lenovo_b8080f" path="device/lenovo/b8080f" remote="github" revision="lineage-19.0" />
+  <project name="DerCoop/android_kernel_lenovo_msm8226" path="kernel/lenovo/msm8226" remote="github" revision="android-12.0.0_r0.35" />
+  <project path="system/tools/dtbtool" name="LineageOS/android_system_tools_dtbtool" revision="lineage-18.1" />
 </manifest>
